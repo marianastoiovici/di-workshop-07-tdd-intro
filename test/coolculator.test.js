@@ -22,4 +22,9 @@ describe('Coolculator', function() {
     result = mm.subtract(3, 2)
     expect(result).to.equal(1)
   })
+
+  it('should divide', function() {
+    result = mm.divide(4, 2)
+    expect(result).to.equal(2)
+  })
 })
