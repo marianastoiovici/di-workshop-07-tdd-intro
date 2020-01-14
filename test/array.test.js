@@ -1,5 +1,5 @@
 // Here are some tests for some of JavaScript's built-in Array methods
-var chai = require('chai')
+var chai = require('/home/mstoiovici/ada_testing_module/di-workshop-07-tdd-intro/node_modules/chai/index')
 var expect = chai.expect
 
 describe('Array', function() {
